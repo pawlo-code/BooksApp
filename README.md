@@ -106,3 +106,10 @@ Projekt BooksApp wykorzystuje relacje między tabelami w bazie danych, aby umoż
 
 ### Edycja książki
 ![Edycja książki](img/screen3.PNG)
+
+### Tabela 'user_books'
+![Tabela 'user_books'](img/screen4.PNG)
+
+### Tabela 'books'
+![Tabela 'books'](img/screen5.PNG)
+
