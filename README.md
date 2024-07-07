@@ -99,10 +99,10 @@ Projekt BooksApp wykorzystuje relacje między tabelami w bazie danych, aby umoż
 ## Przykłady Screenshotów
 
 ### Dodawanie książki
-![Dodawanie książki](img/screen2.png)
+![Dodawanie książki](img/screen2.PNG)
 
 ### Lista książek
-![Lista książek](img/screen1.png)
+![Lista książek](img/screen1.PNG)
 
 ### Edycja książki
-![Edycja książki](img/screen3.png)
+![Edycja książki](img/screen3.PNG)
