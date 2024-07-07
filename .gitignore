@@ -18,3 +18,59 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+# Laravel specific
+/storage/debugbar
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+
+# Laravel IDE Helper specific
+/_ide_helper.php
+/_ide_helper_models.php
+
+# Ignoring Mac system files
+.DS_Store
+
+# Ignoring Windows system files
+Thumbs.db
+
+# Composer
+/vendor
+
+# NPM
+/node_modules
+
+# Log files
+*.log
+
+# Ignore coverage reports
+/coverage/
+/*.lcov
+
+# Ignore sensitive files
+.env.*
+.env.local
+
+# Editor directories and files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Ignore the build directory for Laravel Mix
+/public/mix-manifest.json
+/public/css/app.css
+/public/js/app.js
+
+# Ignore the build directory for Vite
+/public/build
+/public/hot
+
+# Ignore the Laravel Telescope files
+/storage/telescope
+
+# Ignore the Laravel Horizon files
+/storage/horizon
